@@ -1,4 +1,4 @@
-# Avengers API - LiveCode DIO - 01/04/2021
+# VingadoresAPI - LiveCode DIO
 
 Desenvolvimento de uma API utilizando SpringBoot + Kotlin com o intuito de cadastro de Vingadores.
 
